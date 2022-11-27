@@ -33,11 +33,11 @@ These are some important packages used, but some basic packages are also used wh
 
 To use this project, simply clone the repository and run the Jupyter Notebooks in the following order:
 
-    EDA.ipynb
-    Preprocessing.ipynb
-    Training.ipynb
-    Hyperparameter Tuning.ipynb
-    Conclusion.ipynb
+    1 - EDA.ipynb
+    2 - PreProcessing.ipynb
+    3 - Training.ipynb
+    4 - HyperparameterTuning.ipynb
+    5 - Conclusion.ipynb
 
 The notebooks are designed to be run in sequence, as each notebook builds on the work done in the previous notebooks.
 
