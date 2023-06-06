@@ -1,17 +1,22 @@
 # Birds Bones and Living Habits
 
 This project is an analysis of the Birds Bones and Living Habits dataset, which can be found here. The dataset contains information about the bones of different bird species, as well as their living habits.
-Project Description
+
+  ![Bones](https://github.com/AbdullahTabassam/Bird-Skeletal-Analysis-and-Species-Classifier/assets/108297005/cf4e205e-e394-497d-b571-3bd05bb9fcbc)
+
+## Project Description
 
 The objective of this project is to create a machine learning model that can predict the living habits of birds based on their bone measurements. To achieve this objective, three different machine learning models were trained: Logistic Regression, Support Vector Machine (SVM) and K-Nearest Neighbors (KNN).
 
 The project consists of the following Jupyter Notebooks:
 
-    EDA: This notebook contains the exploratory data analysis of the dataset, including data visualization and data cleaning.
-    Preprocessing: This notebook contains the preprocessing steps taken to prepare the data for the machine learning models.
-    Training: This notebook contains the training of the three different machine learning models.
-    Hyperparameter Tuning: This notebook contains the hyperparameter tuning of the three different machine learning models.
-    Conclusion: This notebook contains the evaluation of the three different machine learning models, including ROC curves and other metrics, to decide which model performed the best.
+  - EDA: This notebook contains the exploratory data analysis of the dataset, including data visualization and data cleaning.
+  - Preprocessing: This notebook contains the preprocessing steps taken to prepare the data for the machine learning models.
+  - Training: This notebook contains the training of the three different machine learning models.
+  - Hyperparameter Tuning: This notebook contains the hyperparameter tuning of the three different machine learning models.
+  - Conclusion: This notebook contains the evaluation of the three different machine learning models, including ROC curves and other metrics, to decide which model performed the best.
+  
+
 
 ## Installation
 
